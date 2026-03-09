@@ -10,10 +10,6 @@
 # 📌 About Me
 
 - 🎮 Gameplay Programming
-- 🌐 Multiplayer Systems
-- ⚙ Engine Systems
-- 🧠 Problem Solving & Optimization
-
 ---
 
 # 🛠 Tech Stack
@@ -22,21 +18,18 @@
 
 <p>
 <img src="https://img.shields.io/badge/Unreal Engine-000000?style=for-the-badge&logo=unrealengine"/>
-<img src="https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity"/>
+<!--
+  <img src="https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity"/>
+-->
 </p>
 
 ### 💻 Programming
 
 <p>
 <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus"/>
+<!--
 <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp"/>
-</p>
-
-### 🌐 Multiplayer / Backend
-
-<p>
-<img src="https://img.shields.io/badge/Photon-004480?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase"/>
+-->
 </p>
 
 ### 🧰 Tools
@@ -45,7 +38,6 @@
 <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git"/>
 <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira"/>
 <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion"/>
-<img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma"/>
 </p>
 
 ---
