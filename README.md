@@ -1,4 +1,4 @@
-## Hi there 👋
+## 안녕하세요 게임개발자 김상민입니다 👋
 
 <!--
 **darklordStormageddon/darklordStormageddon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
