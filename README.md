@@ -46,9 +46,9 @@
 
 | Project | Description | Tech |
 |-------|-------------|------|
-| **SimpleHorrorPuzzleGame** | 간단한 공포퍼즐게임 | UE 5.3|
-| **DroneDefense** | 디펜스 게임 | UE 5.3, C++ |
-| **Co-op Space Extraction Game** | 협동 익스트랙션 게임 | UE 5.3, C++ |
+| **SimpleHorrorPuzzleGame**(https://github.com/sangmin/space-mining) | 간단한 공포퍼즐게임 | UE 5.3|
+| **DroneDefense**(https://github.com/UnrealDronefight/DroneFight.git) | 디펜스 게임 | UE 5.3, C++ |
+| **Co-op Space Extraction Game(https://github.com/darklordStormageddon/Project_Victory.git)** | 협동 익스트랙션 게임 | UE 5.3, C++ |
 
 ---
 
