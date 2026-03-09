@@ -1,8 +1,8 @@
-<h1 align="center">Hi 👋 I'm Sangmin Kim</h1>
-<h3 align="center">Game Developer | Gameplay Programmer</h3>
+<h1 align="center">게임 개발자 김상민입니다.</h1>
+<h3 align="center">Game Developer</h3>
 
 <p align="center">
-게임 시스템, 네트워크, 플레이어 경험을 만드는 것을 좋아하는 개발자입니다.
+게임 기획을 좋아하는 게임 개발자
 </p>
 
 ---
@@ -54,10 +54,9 @@
 
 | Project | Description | Tech |
 |-------|-------------|------|
-| **Space Multiplayer Shooter** | 우주 멀티플레이 슈팅 게임 | Unreal Engine, C++, Replication |
-| **VR Collaboration Platform** | VR 협업 시스템 | Unity, Photon |
-| **Arena Multiplayer Game** | 실시간 4인 대전 게임 | Unity, Photon PUN |
-| **Co-op Puzzle Game** | 2인 협동 퍼즐 게임 | Unity, C# |
+| **SimpleHorrorPuzzleGame** | 간단한 공포퍼즐게임 | UE 5.3|
+| **DroneDefense** | 디펜스 게임 | UE 5.3, C++ |
+| **Co-op Space Extraction Game** | 협동 익스트랙션 게임 | UE 5.3, C++ |
 
 ---
 
@@ -75,9 +74,7 @@
 
 # 🧠 Currently Learning
 
-- Unreal Engine Gameplay Ability System
-- Network Optimization
-- Game Physics
+- Unreal Engine 5.7
 
 ---
 
@@ -85,13 +82,10 @@
 
 <p>
 
-<img src="https://img.shields.io/badge/Email-email@gmail.com-EA4335?style=for-the-badge&logo=gmail"/>
-<img src="https://img.shields.io/badge/GitHub-USERNAME-181717?style=for-the-badge&logo=github"/>
+<img src="https://img.shields.io/badge/Email-sangsang366@gmail.com-EA4335?style=for-the-badge&logo=gmail"/>
+<img src="https://img.shields.io/badge/Phone-010--2604--0461-00C853?style=for-the-badge"/>
 
 </p>
 
 ---
-
-<p align="center">
-⭐ If you like my projects, feel free to star them!
 </p>
