@@ -2,7 +2,7 @@
 <h3 align="center">Game Developer</h3>
 
 <p align="center">
-게임 기획을 좋아하는 게임 개발자
+게임 기획을 좋아하는 개발자
 </p>
 
 ---
