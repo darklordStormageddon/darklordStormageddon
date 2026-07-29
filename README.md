@@ -65,8 +65,8 @@
 
 # 🧠 Currently Learning
 
-- Unreal Engine 5.7
-
+- Unreal Engine 5.6-5.7
+- Godot 4.6
 ---
 
 # 📫 Contact
