@@ -18,7 +18,7 @@
 
 <p>
 <img src="https://img.shields.io/badge/Unreal Engine-000000?style=for-the-badge&logo=unrealengine"/>
-<img src="https://img.shields.io/badge/Godot%20Engine-478CBF?style=for-the-badge&logo=godotengine"/>
+<img src="https://img.shields.io/badge/Godot%20Engine-478CBF?style=for-the-badge&logo=godotengine&style=flat"/>
 <!--
   <img src="https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity"/>
 -->
